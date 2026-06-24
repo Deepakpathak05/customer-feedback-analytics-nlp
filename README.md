@@ -224,6 +224,17 @@ An automated sentiment analysis system can help organizations:
 
 ---
 
+## Business Recommendations
+
+Based on sentiment analysis results:
+
+- Positive reviews frequently emphasize strong storytelling, acting quality, and overall entertainment value.
+- Negative reviews often highlight issues related to plot quality, pacing, and execution.
+- Organizations can leverage automated sentiment analysis to monitor customer feedback at scale.
+- Sentiment classification models can help prioritize customer concerns and improve decision-making.
+
+---
+
 # Future Improvements
 
 - Implement Random Forest and XGBoost models.
@@ -235,16 +246,41 @@ An automated sentiment analysis system can help organizations:
 
 # Conclusion
 
-This project successfully applied Natural Language Processing and Machine Learning techniques to analyze 50,000 IMDb movie reviews and classify audience sentiment.
+This project demonstrates how Natural Language Processing and Machine Learning can transform unstructured customer reviews into meaningful business insights.
 
-Among the evaluated approaches, TF-IDF combined with Logistic Regression achieved the best performance with an accuracy of 88.18%, outperforming the Bag of Words model.
+After extensive text preprocessing and exploratory analysis, TF-IDF combined with Logistic Regression achieved the best performance with an accuracy of 88.18%, outperforming the Bag of Words approach.
 
-The results demonstrate the importance of feature engineering in text classification tasks and highlight the effectiveness of NLP techniques for extracting meaningful insights from unstructured customer feedback.
+The results highlight the importance of effective feature engineering in text classification and showcase how sentiment analysis can support scalable customer feedback monitoring and data-driven decision-making.
+
+---
+
+---
+
+## Repository Structure
+
+```text
+customer-feedback-analytics-nlp/
+│
+├── Customer_Feedback_Analytics_IMDb_Sentiment_Analysis.ipynb
+├── README.md
+├── requirements.txt
+│
+└── images/
+    ├── positive_wordcloud.png
+    ├── negative_wordcloud.png
+    ├── positive_bigram_analysis.png
+    ├── negative_bigram_analysis.png
+    ├── model_comparison.png
+    └── tfidf_confusion_matrix.png
+```
 
 ---
 
 ## Author
 
 **Deepak Pathak**
-Data Analyst | SQL | Python | Power BI | NLP | Machine Learning
-**Linkedin** https://www.linkedin.com/in/deepak-pathak-388522271/
+
+Data Analyst
+
+LinkedIn:
+https://www.linkedin.com/in/deepak-pathak-388522271/
