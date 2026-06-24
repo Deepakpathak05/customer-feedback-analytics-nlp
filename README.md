@@ -1,4 +1,6 @@
 # Customer Feedback Analytics using NLP and Machine Learning
+<img width="2752" height="1536" alt="Gemini_Generated_Image_uu4bhmuu4bhmuu4b" src="https://github.com/user-attachments/assets/923a4f0b-d339-46d0-8ebf-b42a7d27cba5" />
+
 ## A Case Study on IMDb Movie Reviews
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -36,7 +38,7 @@ The project focuses on:
 
 **Dataset:** IMDb Movie Reviews Dataset
 
-**Source:** Kaggle
+**Source:** [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 **Total Reviews:** 50,000
 
@@ -245,3 +247,4 @@ The results demonstrate the importance of feature engineering in text classifica
 
 **Deepak Pathak**
 Data Analyst | SQL | Python | Power BI | NLP | Machine Learning
+**Linkedin** https://www.linkedin.com/in/deepak-pathak-388522271/
