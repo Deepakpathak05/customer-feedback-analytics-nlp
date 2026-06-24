@@ -117,15 +117,22 @@ These techniques help uncover common themes and linguistic patterns within custo
 
 ---
 
+# Word Frequency Analysis
+<img width="10736" height="4138" alt="Word_Frequency_for_Reviews" src="https://github.com/user-attachments/assets/18920dd3-48fc-40dc-a5d9-fc4f1354cf63" />
+
+---
+
 # Word Cloud Analysis
 
 ## Positive Reviews
 
-![Positive Word Cloud](images/positive_wordcloud.png)
+<img width="7095" height="3759" alt="Word_Cloud-Positive_Reviews" src="https://github.com/user-attachments/assets/9330b433-bd77-4ade-8502-0a822f197783" />
+
 
 ## Negative Reviews
 
-![Negative Word Cloud](images/negative_wordcloud.png)
+<img width="7095" height="3759" alt="Word_Cloud-Negative_Reviews" src="https://github.com/user-attachments/assets/c4153e98-829d-458d-b4c2-33b27cfb1443" />
+
 
 ---
 
@@ -133,11 +140,13 @@ These techniques help uncover common themes and linguistic patterns within custo
 
 ## Positive Reviews
 
-![Positive Bigram Analysis](images/positive_bigram_analysis.png)
+<img width="6507" height="3271" alt="positive_bigram_analysis" src="https://github.com/user-attachments/assets/ce6f75c4-fa5e-4d76-a6c0-dc67993421bd" />
+
 
 ## Negative Reviews
 
-![Negative Bigram Analysis](images/negative_bigram_analysis.png)
+<img width="6507" height="3271" alt="negative_bigram_analysis" src="https://github.com/user-attachments/assets/6eb372e5-a1ae-4066-92d2-c96a570e4185" />
+
 
 ---
 
@@ -175,7 +184,8 @@ A Logistic Regression classifier was trained using:
 
 # Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+<img width="4118" height="2809" alt="model_comparison" src="https://github.com/user-attachments/assets/00ad1a86-7dfe-492a-86f8-b5a204c6d4b2" />
+
 
 ---
 
@@ -183,7 +193,8 @@ A Logistic Regression classifier was trained using:
 
 TF-IDF + Logistic Regression
 
-![Confusion Matrix](images/tfidf_confusion_matrix.png)
+<img width="3107" height="2347" alt="Confusion_Matrix_TF-IDF" src="https://github.com/user-attachments/assets/01f86623-7517-45d1-ae4e-26527f608018" />
+
 
 ---
 
